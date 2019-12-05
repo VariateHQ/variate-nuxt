@@ -4,6 +4,7 @@
   "description": "Variate plugin for Nuxt.js",
   "main": "lib/module.js",
   "scripts": {
+    "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
