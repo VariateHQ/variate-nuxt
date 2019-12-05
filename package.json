@@ -20,8 +20,8 @@
     "nuxt.js",
     "vue.js"
   ],
-  "author": "“Valentin <valentin@whatdafox.com> (http://twitter.com/valentinprngd)",
-  "license": "ISC",
+  "author": "“Valentin <valentin.prugnaud@variate.ca>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/VariateApp/variate-nuxt/issues"
   },
