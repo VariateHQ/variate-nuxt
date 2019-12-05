@@ -1,0 +1,43 @@
+{
+  "name": "@variate/nuxt",
+  "version": "1.0.0",
+  "description": "Variate plugin for Nuxt.js",
+  "main": "lib/module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VariateApp/variate-nuxt.git"
+  },
+  "keywords": [
+    "variate",
+    "ab-testing",
+    "nuxt.js",
+    "vue.js"
+  ],
+  "author": "“Valentin <valentin@whatdafox.com> (http://twitter.com/valentinprngd)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VariateApp/variate-nuxt/issues"
+  },
+  "homepage": "https://github.com/VariateApp/variate-nuxt#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^8.2.0",
+    "@commitlint/config-conventional": "^8.2.0",
+    "cz-conventional-changelog": "^3.0.2",
+    "husky": "^3.1.0",
+    "standard-version": "^7.0.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "@variate/vue": "^1.2.0"
+  }
+}
