@@ -1,6 +1,8 @@
 {
   "name": "@variate/nuxt",
   "version": "1.0.0",
+  "author": "Valentin Prugnaud <valentin.prugnaud@variate.ca>",
+  "license": "BSL 1.1",
   "description": "Variate plugin for Nuxt.js",
   "main": "lib/module.js",
   "scripts": {
@@ -10,6 +12,21 @@
   "files": [
     "lib"
   ],
+  "dependencies": {
+    "@variate/vue": "^2.0"
+  },
+  "peerDependencies": {
+    "@variate/engine": "^3.0.1",
+    "vue": "^2.6.11",
+    "nuxt": "^2.11.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.3",
+    "@commitlint/config-conventional": "^8.3.3",
+    "cz-conventional-changelog": "^3.0.2",
+    "husky": "^3.1.0",
+    "standard-version": "^7.0.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/VariateApp/variate-nuxt.git"
@@ -20,25 +37,13 @@
     "nuxt.js",
     "vue.js"
   ],
-  "author": "“Valentin <valentin.prugnaud@variate.ca>",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/VariateApp/variate-nuxt/issues"
   },
   "homepage": "https://github.com/VariateApp/variate-nuxt#readme",
-  "devDependencies": {
-    "@commitlint/cli": "^8.2.0",
-    "@commitlint/config-conventional": "^8.2.0",
-    "cz-conventional-changelog": "^3.0.2",
-    "husky": "^3.1.0",
-    "standard-version": "^7.0.1"
-  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  },
-  "dependencies": {
-    "@variate/vue": "^1.2.0"
   }
 }
