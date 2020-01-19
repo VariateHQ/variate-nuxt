@@ -16,15 +16,15 @@
     "@variate/vue": "^2.0"
   },
   "peerDependencies": {
-    "@variate/engine": "^3.0.1",
+    "@variate/engine": "^3.1.2",
     "vue": "^2.6.11",
     "nuxt": "^2.11.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^8.3.3",
-    "@commitlint/config-conventional": "^8.3.3",
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
     "cz-conventional-changelog": "^3.0.2",
-    "husky": "^3.1.0",
+    "husky": "^4.0.10",
     "standard-version": "^7.0.1"
   },
   "repository": {
