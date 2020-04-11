@@ -1,6 +1,6 @@
 {
   "name": "@variate/nuxt",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Valentin Prugnaud <valentin.prugnaud@variate.ca>",
   "license": "BSL 1.1",
   "description": "Variate plugin for Nuxt.js",
