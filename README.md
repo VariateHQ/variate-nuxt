@@ -1,8 +1,8 @@
 ![npm (scoped with tag)](https://img.shields.io/npm/v/@variate/nuxt/latest?color=%234EC723)
 ![NPM](https://img.shields.io/npm/l/@variate/nuxt)
-![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/VariateApp/variate-nuxt/@variate/vue)
-[![Actions Status](https://github.com/VariateApp/variate-vue/workflows/Build/badge.svg)](https://github.com/VariateApp/variate-nuxt/actions)
-[![Actions Status](https://github.com/VariateApp/variate-vue/workflows/Publish/badge.svg)](https://github.com/VariateApp/variate-nuxt/actions)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/VariateHQ/variate-nuxt/@variate/vue)
+[![Actions Status](https://github.com/VariateHQ/variate-vue/workflows/Build/badge.svg)](https://github.com/VariateHQ/variate-nuxt/actions)
+[![Actions Status](https://github.com/VariateHQ/variate-vue/workflows/Publish/badge.svg)](https://github.com/VariateHQ/variate-nuxt/actions)
 
 # Variate Nuxt
 

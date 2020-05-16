@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VariateApp/variate-nuxt.git"
+    "url": "git+https://github.com/VariateHQ/variate-nuxt.git"
   },
   "keywords": [
     "variate",
@@ -38,9 +38,9 @@
     "vue.js"
   ],
   "bugs": {
-    "url": "https://github.com/VariateApp/variate-nuxt/issues"
+    "url": "https://github.com/VariateHQ/variate-nuxt/issues"
   },
-  "homepage": "https://github.com/VariateApp/variate-nuxt#readme",
+  "homepage": "https://github.com/VariateHQ/variate-nuxt#readme",
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
