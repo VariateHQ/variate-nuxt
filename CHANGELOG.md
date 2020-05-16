@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.6](https://github.com/VariateHQ/variate-nuxt/compare/v1.0.5...v1.0.6) (2020-05-16)
+
+
+### Bug Fixes
+
+* update default path to schema ([11af0ae](https://github.com/VariateHQ/variate-nuxt/commit/11af0aeba142d33534ae5ef1b415ff0e3c148210))
+
 ### [1.0.5](https://github.com/VariateHQ/variate-nuxt/compare/v1.0.4...v1.0.5) (2020-05-16)
 
 ### [1.0.4](https://github.com/VariateHQ/variate-nuxt/compare/v1.0.3...v1.0.4) (2020-04-11)
